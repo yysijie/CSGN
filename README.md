@@ -7,7 +7,7 @@ This repository hold the codebase for our ICCV19 paper:
     <img src="resource/pipeline.png", width=98%>
 </p>
 
-[[Paper]](http://www.dahualin.org/publications/dhl19_csgn.pdf) [[Video]](https://www.youtube.com/watch?v=RU8OJ1YkxYw) [[Demo]](http://sijieyan.com/project/csgn)
+[[Paper]](http://www.dahualin.org/publications/dhl19_csgn.pdf) [[Video]](https://www.bilibili.com/video/av73976030) [[Demo]](http://sijieyan.com/project/csgn)
 
 ### Dancing Generation
 <p align="center">
