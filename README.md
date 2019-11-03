@@ -1,7 +1,7 @@
 # Convolutional Sequence Generation Networks
 
 This repository hold the codebase for our ICCV19 paper:
-> **Convolutional Sequence Generation for Skeleton-Based Action Synthesis**, Sijie Yan, Zhizhong Li, Yuanjun Xiong, Huahan Yan,Dahua Lin, ICCV 2019.
+**Convolutional Sequence Generation for Skeleton-Based Action Synthesis**, Sijie Yan, Zhizhong Li, Yuanjun Xiong, Huahan Yan,Dahua Lin, ICCV 2019.
 <p align="center">
     <img src="resource/pipeline.png", width=98%>
 </p>
