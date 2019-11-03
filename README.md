@@ -16,6 +16,7 @@ Watch the full video on [youtube](https://www.youtube.com/watch?v=RU8OJ1YkxYw) o
 <p align="center">
     <img src="resource/demo.gif", width=70%>
 </p>
+
 [Demo](http://sijieyan.com/project/csgn) for action generation, prediction and completion on the NTU-RGB+D dataset.
 
 
