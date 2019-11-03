@@ -2,6 +2,9 @@
 
 This repository hold the codebase for our ICCV19 paper:
 > **Convolutional Sequence Generation for Skeleton-Based Action Synthesis**, Sijie Yan, Zhizhong Li, Yuanjun Xiong, Huahan Yan,Dahua Lin, ICCV 2019.
+<p align="center">
+    <img src="resource/pipeline.png", width=98%>
+</p>
 
 [[Paper]](http://www.dahualin.org/publications/dhl19_csgn.pdf) [[Video]](https://www.youtube.com/watch?v=RU8OJ1YkxYw) [[Demo]](http://sijieyan.com/project/csgn)
 
